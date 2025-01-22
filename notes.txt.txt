@@ -1,0 +1,1 @@
+github repo -> settings -> secrets and variables -> New repo secret -> docker_username; ilgarhasanov; add it-> docker_password; secret_key; add it 
